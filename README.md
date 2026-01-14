@@ -74,6 +74,7 @@ Windows OS
 .NET runtime (if applicable to your build)
 
 Screenshot
+
 <img width="507" height="284" alt="1" src="https://github.com/user-attachments/assets/3a918c2a-91a5-4807-a5b2-22d7279cd44b" />
 
 Disclaimer
